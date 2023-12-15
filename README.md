@@ -80,4 +80,8 @@
 ***login(작업자 : 손영우)***
 
 ***cs(작업자 : 박한산)***
+
 # GaePan
+
+![image](https://github.com/saii12/GaePan/assets/136421972/ce231ea0-3661-4401-8ee5-d7bceedfb9c2)
+

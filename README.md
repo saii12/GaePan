@@ -1,5 +1,5 @@
 # 시연 영상
-https://www.youtube.com/watch?v=zdvuHGC1IRM&t=25s
+https://www.youtube.com/watch?v=zdvuHGC1IRM&list=PLbqjWYERBCZZuCdchCpYUIywUjVqmmkSH
 
 # GaePan 프로젝트 작업 일지
 

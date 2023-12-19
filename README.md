@@ -1,3 +1,6 @@
+#시연 영상
+https://www.youtube.com/watch?v=zdvuHGC1IRM&t=25s
+
 # GaePan 프로젝트 작업 일지
 
 프로젝트 기간 : **_2023-11-03 ~ 2023-11-30_**

@@ -1,6 +1,14 @@
 # 시연 영상
 https://www.youtube.com/watch?v=zdvuHGC1IRM&list=PLbqjWYERBCZZuCdchCpYUIywUjVqmmkSH
 
+<br/>
+
+# GaePan
+
+![image](https://github.com/saii12/GaePan/assets/136421972/ce231ea0-3661-4401-8ee5-d7bceedfb9c2)
+
+<br/>
+
 # 기능구현
 
 **notice/faq/qna**
@@ -15,7 +23,7 @@ https://www.youtube.com/watch?v=zdvuHGC1IRM&list=PLbqjWYERBCZZuCdchCpYUIywUjVqmm
 - 글 수정/삭제
 - 댓글 등록/수정/삭제
 
-<br/>
+
 
 **개발 환경**
 - Intellj
@@ -48,7 +56,5 @@ https://www.youtube.com/watch?v=zdvuHGC1IRM&list=PLbqjWYERBCZZuCdchCpYUIywUjVqmm
 <br/>
 
 
-# GaePan
 
-![image](https://github.com/saii12/GaePan/assets/136421972/ce231ea0-3661-4401-8ee5-d7bceedfb9c2)
 

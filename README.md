@@ -6,7 +6,11 @@ https://www.youtube.com/watch?v=zdvuHGC1IRM&list=PLbqjWYERBCZZuCdchCpYUIywUjVqmm
 # GaePan
 ![image](https://github.com/saii12/GaePan/assets/136421972/ce231ea0-3661-4401-8ee5-d7bceedfb9c2)
 
-<br/>
+</br>
+
+# 파트 : 고객센터(cs)
+
+</br>
 
 # 기능구현 - Spring boot
 

@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=zdvuHGC1IRM&list=PLbqjWYERBCZZuCdchCpYUIywUjVqmm
 
 - 카테고리별 글 목록/글 보기
 - 글 목록(최신글 순, 페이징 처리, 아이디 마스킹)
-
+<br/>
 **qna**
 
 - 글쓰기(비밀글 선택) / 로그인 하지 않은 상태에서 글쓰기 버튼 클릭 시 로그인 화면으로 이동
